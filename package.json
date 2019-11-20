@@ -1,0 +1,27 @@
+{
+  "name": "discord-blacklist",
+  "version": "1.0.0",
+  "description": "By Moonlight",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Blacklist"
+  ],
+  "author": "Moonlight#9257",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "github:discordjs/discord.js",
+    "fs": "0.0.1-security"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Moonlight-0x001/Discord-Blacklist.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Moonlight-0x001/Discord-Blacklist/issues"
+  },
+  "homepage": "https://github.com/Moonlight-0x001/Discord-Blacklist#readme"
+}
